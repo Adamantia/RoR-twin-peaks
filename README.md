@@ -1,1 +1,1 @@
-Ruby on rails app twin peaks quotes using faker gem.
+MVC Ruby on rails app with twin peaks quotes using faker gem.
